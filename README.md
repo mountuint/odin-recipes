@@ -1,1 +1,2 @@
-# odin-recipes
+Odin-recipes is a web-based project designed to show some meal recipes. I will learn how to do a web page when i finished this project. 
+I imroved my coding skills with this project. Thanks to odin project.
